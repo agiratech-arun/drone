@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/drone/drone/model"
-	"github.com/drone/drone/remote/gogs/fixtures"
+	"github.com/agiratech-arun/drone/model"
+	"github.com/agiratech-arun/drone/remote/gogs/fixtures"
 
 	"github.com/franela/goblin"
 	"github.com/gogits/go-gogs-client"

@@ -10,10 +10,10 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/drone/drone-ui/dist"
-	"github.com/drone/drone/model"
-	"github.com/drone/drone/shared/token"
-	"github.com/drone/drone/version"
+	"github.com/agiratech-arun/drone-ui/dist"
+	"github.com/agiratech-arun/drone/model"
+	"github.com/agiratech-arun/drone/shared/token"
+	"github.com/agiratech-arun/drone/version"
 
 	"github.com/dimfeld/httptreemux"
 )

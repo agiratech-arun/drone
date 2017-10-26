@@ -2,7 +2,7 @@ Drone is a Continuous Delivery system built on container technology. Drone uses 
 
 <br/>
 
-<img src="https://github.com/drone/brand/blob/master/screenshots/screenshot_build_success.png" style="max-width:100px;" />
+<img src="https://github.com/agiratech-arun/brand/blob/master/screenshots/screenshot_build_success.png" style="max-width:100px;" />
 
 Sample Pipeline Configuration:
 

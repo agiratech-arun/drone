@@ -1,6 +1,6 @@
 package expr
 
-import "github.com/drone/expr/parse"
+import "github.com/agiratech-arun/expr/parse"
 
 // Selector reprents a parsed SQL selector statement.
 type Selector struct {

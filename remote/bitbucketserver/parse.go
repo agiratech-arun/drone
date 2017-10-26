@@ -3,8 +3,8 @@ package bitbucketserver
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/drone/drone/model"
-	"github.com/drone/drone/remote/bitbucketserver/internal"
+	"github.com/agiratech-arun/drone/model"
+	"github.com/agiratech-arun/drone/remote/bitbucketserver/internal"
 	"net/http"
 )
 

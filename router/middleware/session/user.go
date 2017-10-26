@@ -3,9 +3,9 @@ package session
 import (
 	"net/http"
 
-	"github.com/drone/drone/model"
-	"github.com/drone/drone/shared/token"
-	"github.com/drone/drone/store"
+	"github.com/agiratech-arun/drone/model"
+	"github.com/agiratech-arun/drone/shared/token"
+	"github.com/agiratech-arun/drone/store"
 
 	"github.com/gin-gonic/gin"
 )

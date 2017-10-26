@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"code.gitea.io/sdk/gitea"
-	"github.com/drone/drone/model"
-	"github.com/drone/drone/remote/gitea/fixtures"
+	"github.com/agiratech-arun/drone/model"
+	"github.com/agiratech-arun/drone/remote/gitea/fixtures"
 	"github.com/franela/goblin"
 )
 

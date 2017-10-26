@@ -1,6 +1,6 @@
 {
 	"comment": "",
-	"ignore": "test github.com/drone/mq/ github.com/tidwall/redlog/ google.golang.org/appengine/ github.com/syndtr/goleveldb/ github.com/drone/drone-ui/ github.com/bradrydzewski/drone-ui-unit/dist/ github.com/golang/protobuf/proto github.com/golang/protobuf/ptypes/any golang.org/x/net/context golang.org/x/net/context/ctxhttp",
+	"ignore": "test github.com/agiratech-arun/mq/ github.com/tidwall/redlog/ google.golang.org/appengine/ github.com/syndtr/goleveldb/ github.com/agiratech-arun/drone-ui/ github.com/bradrydzewski/drone-ui-unit/dist/ github.com/golang/protobuf/proto github.com/golang/protobuf/ptypes/any golang.org/x/net/context golang.org/x/net/context/ctxhttp",
 	"package": [
 		{
 			"path": "appengine/cloudsql",
@@ -477,31 +477,31 @@
 		},
 		{
 			"checksumSHA1": "pjMV8mwWcQ0Kk9cbLWweTGiqYPk=",
-			"path": "github.com/drone/envsubst",
+			"path": "github.com/agiratech-arun/envsubst",
 			"revision": "523de92ea410a5756012669fb628fe42a3056b3e",
 			"revisionTime": "2017-03-25T05:49:59Z"
 		},
 		{
 			"checksumSHA1": "CVG/vocbXGLbGKRO//TOlicOBkw=",
-			"path": "github.com/drone/envsubst/parse",
+			"path": "github.com/agiratech-arun/envsubst/parse",
 			"revision": "523de92ea410a5756012669fb628fe42a3056b3e",
 			"revisionTime": "2017-03-25T05:49:59Z"
 		},
 		{
 			"checksumSHA1": "AT++gcbYW/VQxkmbInFJk1Feg3o=",
-			"path": "github.com/drone/expr",
+			"path": "github.com/agiratech-arun/expr",
 			"revision": "72f4df4a266b7e1e15b75d4ab8e43e273fcbe1d7",
 			"revisionTime": "2017-09-09T01:06:28Z"
 		},
 		{
 			"checksumSHA1": "ndkZW2hZSw4AE5WQmWS8sPk79NY=",
-			"path": "github.com/drone/expr/parse",
+			"path": "github.com/agiratech-arun/expr/parse",
 			"revision": "72f4df4a266b7e1e15b75d4ab8e43e273fcbe1d7",
 			"revisionTime": "2017-09-09T01:06:28Z"
 		},
 		{
 			"checksumSHA1": "ZOASUqqEP4pfH5MNjImiyemkjOA=",
-			"path": "github.com/drone/signal",
+			"path": "github.com/agiratech-arun/signal",
 			"revision": "ac5d07ef13150b4db403b96152e1ea54335df400",
 			"revisionTime": "2017-09-15T01:38:02Z"
 		},
@@ -1242,5 +1242,5 @@
 			"revisionTime": "2015-01-19T16:55:52-02:00"
 		}
 	],
-	"rootPath": "github.com/drone/drone"
+	"rootPath": "github.com/agiratech-arun/drone"
 }

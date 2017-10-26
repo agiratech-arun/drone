@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/drone/drone/model"
-	"github.com/drone/drone/remote"
-	"github.com/drone/drone/remote/bitbucket/internal"
-	"github.com/drone/drone/shared/httputil"
+	"github.com/agiratech-arun/drone/model"
+	"github.com/agiratech-arun/drone/remote"
+	"github.com/agiratech-arun/drone/remote/bitbucket/internal"
+	"github.com/agiratech-arun/drone/shared/httputil"
 
 	"golang.org/x/oauth2"
 )

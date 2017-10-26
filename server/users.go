@@ -7,8 +7,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/gorilla/securecookie"
 
-	"github.com/drone/drone/model"
-	"github.com/drone/drone/store"
+	"github.com/agiratech-arun/drone/model"
+	"github.com/agiratech-arun/drone/store"
 )
 
 func GetUsers(c *gin.Context) {

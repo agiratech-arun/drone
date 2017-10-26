@@ -3,7 +3,7 @@ package mock
 import (
 	"net/http"
 
-	"github.com/drone/drone/model"
+	"github.com/agiratech-arun/drone/model"
 	"github.com/stretchr/testify/mock"
 )
 

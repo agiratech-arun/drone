@@ -5,8 +5,8 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/drone/drone/model"
-	"github.com/drone/drone/store/datastore/sql"
+	"github.com/agiratech-arun/drone/model"
+	"github.com/agiratech-arun/drone/store/datastore/sql"
 
 	"github.com/russross/meddler"
 )

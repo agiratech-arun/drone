@@ -1,7 +1,7 @@
 package registry
 
 import (
-	"github.com/drone/drone/model"
+	"github.com/agiratech-arun/drone/model"
 )
 
 type builtin struct {

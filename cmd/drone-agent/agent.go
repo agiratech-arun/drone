@@ -20,7 +20,7 @@ import (
 	"github.com/cncd/pipeline/pipeline/multipart"
 	"github.com/cncd/pipeline/pipeline/rpc"
 
-	"github.com/drone/signal"
+	"github.com/agiratech-arun/signal"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 	"github.com/tevino/abool"

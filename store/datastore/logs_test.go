@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/drone/drone/model"
+	"github.com/agiratech-arun/drone/model"
 )
 
 func TestLogCreateFind(t *testing.T) {

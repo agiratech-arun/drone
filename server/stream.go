@@ -10,9 +10,9 @@ import (
 
 	"github.com/cncd/logging"
 	"github.com/cncd/pubsub"
-	"github.com/drone/drone/model"
-	"github.com/drone/drone/router/middleware/session"
-	"github.com/drone/drone/store"
+	"github.com/agiratech-arun/drone/model"
+	"github.com/agiratech-arun/drone/router/middleware/session"
+	"github.com/agiratech-arun/drone/store"
 
 	"github.com/Sirupsen/logrus"
 	"github.com/gin-gonic/gin"

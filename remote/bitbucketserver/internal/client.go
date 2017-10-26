@@ -10,7 +10,7 @@ import (
 	"strconv"
 
 	log "github.com/Sirupsen/logrus"
-	"github.com/drone/drone/model"
+	"github.com/agiratech-arun/drone/model"
 	"github.com/mrjones/oauth"
 	"strings"
 )

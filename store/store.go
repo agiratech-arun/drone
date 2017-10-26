@@ -3,7 +3,7 @@ package store
 import (
 	"io"
 
-	"github.com/drone/drone/model"
+	"github.com/agiratech-arun/drone/model"
 
 	"golang.org/x/net/context"
 )

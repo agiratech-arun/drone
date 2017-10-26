@@ -3,7 +3,7 @@ package github
 import (
 	"testing"
 
-	"github.com/drone/drone/model"
+	"github.com/agiratech-arun/drone/model"
 	"github.com/google/go-github/github"
 
 	"github.com/franela/goblin"

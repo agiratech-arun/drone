@@ -3,9 +3,9 @@ package server
 import (
 	"time"
 
-	"github.com/drone/drone/model"
-	"github.com/drone/drone/remote"
-	"github.com/drone/drone/store"
+	"github.com/agiratech-arun/drone/model"
+	"github.com/agiratech-arun/drone/remote"
+	"github.com/agiratech-arun/drone/store"
 )
 
 // Syncer synces the user repository and permissions.

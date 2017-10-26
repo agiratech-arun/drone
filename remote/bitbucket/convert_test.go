@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/drone/drone/model"
-	"github.com/drone/drone/remote/bitbucket/internal"
+	"github.com/agiratech-arun/drone/model"
+	"github.com/agiratech-arun/drone/remote/bitbucket/internal"
 
 	"github.com/franela/goblin"
 	"golang.org/x/oauth2"
